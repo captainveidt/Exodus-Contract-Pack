@@ -90,7 +90,7 @@ Am I alone in thinking that the contract configurator documentation & tutorials 
 
 I have uploaded the files for the WIP Exodus contract pack to GitHub. It's uploaded under the MIT license, which I felt was most appropriate for this project.
 
-If you are willing, and familiar with (or willing to familiarize yourself) the kinds of .CFG files and syntax that Contract Configurator requires, please feel free to go there. I would love feedback on any aspect of my code. You can find the Contract Configurator documentation here: https://github.com/jrossignol/ContractConfigurator/wiki
+If you are willing, and familiar with (or willing to familiarize yourself) the kinds of .CFG files and syntax that Contract Configurator requires, please feel free to go there. I would love feedback on any aspect of my code. You can find the documentation here: [Contract Configurator Documentation](https://github.com/jrossignol/ContractConfigurator/wiki)
 
 ### Getting The Word Out
 
