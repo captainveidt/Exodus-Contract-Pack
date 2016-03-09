@@ -53,6 +53,7 @@ These are mods and/or concepts that will be fulfilled by later versions of the m
 * Some way to make launch clamps mandatory
 * Custom tech tree
 * The Exodus Contract Pack (WIP)
+* Implementation of MechJeb2 early in the tech tree because I'm not jadedcat
 
 ### KNOWN BUGS
 
