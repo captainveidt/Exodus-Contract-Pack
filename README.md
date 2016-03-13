@@ -13,7 +13,7 @@ Due to the preferences of certain mod authors, rather than a single download as 
 
 Note that this list will not be including dependencies. I expect that you will be using CKAN, and that dependencies will install automatically.
 
-* [x] Science
+* "[x] Science"
 * Active Texture Management - Agressive
 * Audio Muffler
 * AmpYear
